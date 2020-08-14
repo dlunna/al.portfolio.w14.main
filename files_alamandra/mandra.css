@@ -1,0 +1,62 @@
+@charset "utf-8";
+/* CSS Document */
+
+body
+{
+	background-color:#ffffff;
+}
+
+h1
+{
+	  font-family: Verdana,Arial,Helvetica,Sans-serif;
+	  font-size:250%;
+	  font-weight:bold;
+	  letter-spacing:1px;
+	  color:#4b82cc;
+	  margin-bottom:0px;
+	  text-align:left;
+}
+
+p
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 70%; 
+	font-style: normal;
+	list-style: circle;
+}
+
+p.contacto
+{
+	background:#69F;
+}
+
+p.demos
+{
+	background:#9C0;
+}
+
+a:link{
+	color:#069;
+	text-decoration:none;	
+}
+
+a:visited{
+	color:#666;
+	text-decoration:none;
+}
+
+a:active{
+	color:#069;
+	text-decoration:none;
+}
+
+a:hover{
+	color: #F60;
+	text-decoration:underline;
+}
+
+#footer{
+	font-family: Verdana,Monaco,Arial,Helvetica,sans-serif;
+	font-size:xx-small;
+	color:#999999;
+}
